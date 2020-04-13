@@ -1,0 +1,1 @@
+# slider-by-pure-javascript
